@@ -1,5 +1,5 @@
 {
-  "name": "@musickit-types",
+  "name": "@mkit/types",
   "version": "1.0.0",
   "types": "./index.d.ts",
   "repository": "https://github.com/Zolvy/mkit-types",
