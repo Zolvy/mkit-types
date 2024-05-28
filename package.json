@@ -1,0 +1,15 @@
+{
+  "name": "musickit-types",
+  "version": "0.1",
+  "types": "./index.d.ts",
+  "repository": "https://github.com/Zolvy/Musickit-Types.git",
+  "author": "loonalol <loona@loona.lol>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "tslint **/*.d.ts"
+  },
+  "dependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^5.4.5"
+  }
+}
