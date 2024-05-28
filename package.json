@@ -1,6 +1,6 @@
 {
   "name": "@musickit-types",
-  "version": "0.1",
+  "version": "1.0.0",
   "types": "./index.d.ts",
   "repository": "https://github.com/Zolvy/mkit-types",
   "author": "loonalol <loona@loona.lol>",
