@@ -2,7 +2,7 @@
   "name": "musickit-types",
   "version": "0.1",
   "types": "./index.d.ts",
-  "repository": "https://github.com/Zolvy/Musickit-Types.git",
+  "repository": "https://github.com/Zolvy/mkit-types",
   "author": "loonalol <loona@loona.lol>",
   "license": "MIT",
   "scripts": {
